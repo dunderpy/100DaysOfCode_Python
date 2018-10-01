@@ -23,7 +23,7 @@ print((days_to_xmas).days)
 print(type((days_to_xmas)))
 
 if christmas is not todaydate:
-    print("{} days to xmas!".format((christmas- todaydate).days))
+    print("{} days to xmas!".format((christmas - todaydate).days))
 else:
     print("Merry Xmas!")
 
